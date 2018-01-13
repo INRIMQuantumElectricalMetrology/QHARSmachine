@@ -1,5 +1,5 @@
 # QHARSmachine
-Mathematica notebook for the error analysis of quantum Hall array resistance standards (QHARS)
+Mathematica notebook for the error analysis of quantum Hall array resistance standards (QHARS).
 ## Files
 - `QHARSmachine.nb`: The Mathematica notebook;
 - `qhe8cw.asy`: LTspice schematic editor symbol for a clockwise QHE element;
